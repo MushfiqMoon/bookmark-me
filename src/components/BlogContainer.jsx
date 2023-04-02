@@ -8,7 +8,7 @@ export const BlogContainer = ({ handleReadCount, handleBookmark, selected }) => 
 
 
   useEffect(() => {
-    fetch('../../public/fakeData.json')
+    fetch('/fakeData.json')
       .then(res => res.json())
       .then(data => setBlogData(data))
       .catch(error => console.error(error));
