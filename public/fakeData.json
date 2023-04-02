@@ -1,0 +1,54 @@
+[
+    {
+        "id": "01",
+        "imgBlog": "https://images.unsplash.com/photo-1488590528505-98d2b5aba04b",
+        "imgAvatar": "https://randomuser.me/api/portraits/thumb/men/58.jpg",
+        "writerName": "Mr. Raju",
+        "publishDate": "April 01 (Today)",
+        "readTime": 10,
+        "title": "How to get your first job as a self-taught programmer",
+        "tag": [
+            "beginners",
+            "programming"
+        ]
+    },
+    {
+        "id": "02",
+        "imgBlog": "https://images.unsplash.com/photo-1487058792275-0ad4aaf24ca7",
+        "imgAvatar": "https://randomuser.me/api/portraits/thumb/men/57.jpg",
+        "writerName": "Mr. Tara",
+        "publishDate": "Mar 31 (2 Days ago)",
+        "readTime": 12,
+        "title": "How to prepare youself for Interview",
+        "tag": [
+            "beginners",
+            "programming",
+            "interview"
+        ]
+    },
+    {
+        "id": "03",
+        "imgBlog": "https://images.unsplash.com/photo-1457305237443-44c3d5a30b89",
+        "imgAvatar": "https://randomuser.me/api/portraits/thumb/men/21.jpg",
+        "writerName": "Mina Mostofa",
+        "publishDate": "Mar 30 (3 Days ago)",
+        "readTime": 15,
+        "title": "How to write a proper resume",
+        "tag": [
+            "beginners"
+        ]
+    },
+    {
+        "id": "04",
+        "imgBlog": "https://images.unsplash.com/photo-1461632830798-3adb3034e4c8",
+        "imgAvatar": "https://randomuser.me/api/portraits/thumb/men/65.jpg",
+        "writerName": "Jhon Doe",
+        "publishDate": "Mar 29 (4 Days ago)",
+        "readTime": 20,
+        "title": "How to become a succesful programmer",
+        "tag": [
+            "advance",
+            "programming"
+        ]
+    }
+]
